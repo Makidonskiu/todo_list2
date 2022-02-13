@@ -1,0 +1,26 @@
+.wrapper{
+    text-align: start;
+}
+
+label{
+    margin-left: 11px;
+    width: 473px;
+}
+
+.inputText{
+    width: 473px;
+    margin-right: 50px;
+}
+
+input[type = "checkbox"]:checked + label{
+    text-decoration: line-through;
+}
+
+.input{
+    margin: 0px 10px ;
+    height: 20px;
+}
+
+.but{
+    margin-left: auto;
+}
