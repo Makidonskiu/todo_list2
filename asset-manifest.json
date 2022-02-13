@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Makidonskiu/todo_list2.git/static/css/main.97c3f0d9.css",
+    "main.js": "/Makidonskiu/todo_list2.git/static/js/main.099009fd.js",
+    "static/js/787.c234ca95.chunk.js": "/Makidonskiu/todo_list2.git/static/js/787.c234ca95.chunk.js",
+    "index.html": "/Makidonskiu/todo_list2.git/index.html",
+    "main.97c3f0d9.css.map": "/Makidonskiu/todo_list2.git/static/css/main.97c3f0d9.css.map",
+    "main.099009fd.js.map": "/Makidonskiu/todo_list2.git/static/js/main.099009fd.js.map",
+    "787.c234ca95.chunk.js.map": "/Makidonskiu/todo_list2.git/static/js/787.c234ca95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c3f0d9.css",
+    "static/js/main.099009fd.js"
+  ]
+}
